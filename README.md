@@ -13,7 +13,7 @@
 
 ### Main Projects
 
-- <img src="./icons/tda.svg" width="25" height="20" align="top"> **[tda](https://github.com/antonio-leitao/topological-data-analysis)** — High performance topological data analysis library written in Rust with Python bindings. Not limited to H0 and H1. [🚧 in development]
+- <img src="./icons/tda.svg" width="25" height="20" align="top"> **[tda](https://github.com/antonio-leitao/topological-data-analysis)** — High performance topological data analysis library written in Rust. [🚧 in development]
 - <img src="./icons/dbsampler.svg" width="25" height="20" align="top"> **[dbsampler](https://github.com/antonio-leitao/dbsampler)** — Sample the decision boundary of any classification problem. [[Paper](https://openreview.net/forum?id=I44kJPuvqPD)]
 - <img src="./icons/vlmc.svg" width="25" height="20" align="top"> **[vlmc](https://github.com/antonio-leitao/vlmc)** — Variable Length Markov Chains via Peres-Shield estimation. [[Paper](https://elifesciences.org/reviewed-preprints/96362)] 
 - <img src="./icons/blank.svg" width="25" height="20" align="top"> **[coperto](https://github.com/antonio-leitao/coperto)** — Vietoris-Rips approximation via quotient covers. [[Paper](https://arxiv.org/abs/2602.22784)]
