@@ -1,82 +1,33 @@
-<h2 align="center">
-  António Leitão
-</h2>
+# Hi, I'm António
+
+**Mathematics and High Performance Computing.**
+
+[![Rust](https://img.shields.io/badge/-Rust-B2292D?style=flat-square&logo=rust&logoColor=white)](https://github.com/antonio-leitao)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/antonio-leitao)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/antonio-leitao)
+[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://github.com/antonio-leitao)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/antonio-leitao)
+
+> PhD student at Scuola Normale Superiore & Inria (DataShape). Pushing topological data analysis toward high-performance large-scale applications, both in theory and computation.
 
 
+### Main Projects
 
-<p align="center">
-  PhD Student<br>
-  DataShape Team, Inria<br>
-  Scuola Normale Superiore, Pisa<br>
-  Applied Topology • Machine Learning • Researching <a href="https://www.projectceti.org/">whalespeak</a> at <a href="https://www.projectceti.org">CETI</a>.<br>
-  Mathematician by trade, webdev and frontend on the side.<br>
-List of projects and publications <a href="https://antonio-leitao.github.io">here</a>.<br>
-</p>
+- <img src="./icons/tda.svg" width="25" height="20" align="top"> **[tda](https://github.com/antonio-leitao/topological-data-analysis)** — High performance topological data analysis library written in Rust with Python bindings. Not limited to H0 and H1. [🚧 in development]
+- <img src="./icons/dbsampler.svg" width="25" height="20" align="top"> **[dbsampler](https://github.com/antonio-leitao/dbsampler)** — Sample the decision boundary of any classification problem. [[Paper](https://openreview.net/forum?id=I44kJPuvqPD)]
+- <img src="./icons/vlmc.svg" width="25" height="20" align="top"> **[vlmc](https://github.com/antonio-leitao/vlmc)** — Variable Length Markov Chains via Peres-Shield estimation. [[Paper](https://elifesciences.org/reviewed-preprints/96362)] 
+- <img src="./icons/blank.svg" width="25" height="20" align="top"> **[coperto](https://github.com/antonio-leitao/coperto)** — Vietoris-Rips approximation via quotient covers. [[Paper](https://arxiv.org/abs/2602.22784)]
 
-<h3 align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-leitao&layout=compact)
-  
-</h3>
+### Other Tools
 
+- <img src="./icons/adamastor.svg" width="25" height="20" align="top"> **[adamastor](https://github.com/antonio-leitao/adamastor)** — Build type-safe LLM agents in Rust. Structured outputs, tool calling, multimodal.
+- <img src="./icons/bib.svg" width="25" height="20" align="top"> **[bib](https://github.com/antonio-leitao/bib)** — Bibliography explorer and manager from the command line.
+- <img src="./icons/caravela.svg" width="25" height="20" align="top"> **[caravela](https://github.com/antonio-leitao/caravela)** — Blazingly fast dot product. Does one thing, does it well.
+- <img src="./icons/blank.svg" width="25" height="20" align="top"> **[ripser-rs](https://github.com/antonio-leitao/ripser-rs)** — Rust bindings for the Ripser C++ library.
 
-<h3 align = "center">
-  <p>&nbsp;&nbsp;&emsp;ML&nbsp;&nbsp; • &nbsp;&nbsp;Web&nbsp;&nbsp; • &nbsp;&nbsp;Tools&nbsp; • &nbsp;Learning
-</p>
-</h3>
+## Connect
 
-<p align="center">
-  <img height="50" width="50" src="https://cdn.simpleicons.org/python" />&emsp;&emsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/javascript" />&emsp;&emsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/git" />&emsp;&emsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/rust/B2292D" />
-</p>
-
-
-<p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/svelte/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github/gray" />&emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/go/gray" />
-</p>
-
-<p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/gray" />&emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/gray" />
-</p>
-
-<p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/neovim/gray" />&emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/fortran/gray" />
-</p>
-<p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vite/gray" /> &emsp;&emsp;&emsp;
-  &emsp;&emsp;&emsp;&emsp;
-  &emsp;&emsp;&emsp;
-</p>
-<p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/gray" /> &emsp;&emsp;&emsp;
-  &emsp;&emsp;&emsp;&emsp;
-  &emsp;&emsp;&emsp;&emsp;
-  &emsp;&emsp;&emsp;&emsp;
-</p>
-
-
-
-
-
-<h3 align="right">
-  
-![](https://komarev.com/ghpvc/?username=Antonio-Leitao&style=flat)
-  
-</h3>
-
-
-
-
-
+[![Twitter](https://img.shields.io/badge/-@leitalhao-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/leitalhao)
+[![Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kJStlYkAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/-antonio--leitao.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://antonio-leitao.github.io)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antonio-leitao)
