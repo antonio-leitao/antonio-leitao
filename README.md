@@ -13,13 +13,17 @@
 
 ### Main Projects
 
+##### Research 
 - <img src="./icons/tda.svg" width="25" height="20" align="top"> **[tda](https://github.com/antonio-leitao/topological-data-analysis)** — High performance topological data analysis library written in Rust. [🚧 in development]
 - <img src="./icons/dbsampler.svg" width="25" height="20" align="top"> **[dbsampler](https://github.com/antonio-leitao/dbsampler)** — Sample the decision boundary of any classification problem. [[Paper](https://openreview.net/forum?id=I44kJPuvqPD)]
 - <img src="./icons/vlmc.svg" width="25" height="20" align="top"> **[vlmc](https://github.com/antonio-leitao/vlmc)** — Variable Length Markov Chains via Peres-Shield estimation. [[Paper](https://elifesciences.org/reviewed-preprints/96362)] 
 - <img src="./icons/blank.svg" width="25" height="20" align="top"> **[coperto](https://github.com/antonio-leitao/coperto)** — Vietoris-Rips approximation via quotient covers. [[Paper](https://arxiv.org/abs/2602.22784)]
 
-### Other Tools
+##### Applications
+- <img src="./icons/paperstack.svg" width="25" height="20" align="top"> **[PaperStack](https://antonio-leitao.github.io/paperstack)** — Bibliography manager for research projects.
+- <img src="./icons/press.svg" width="25" height="20" align="top"> **[Printing Press](https://antonio-leitao.github.io/printing-press)** — PDF viewer that does not need a pdf.
 
+##### Others
 - <img src="./icons/adamastor.svg" width="25" height="20" align="top"> **[adamastor](https://github.com/antonio-leitao/adamastor)** — Build type-safe LLM agents in Rust. Structured outputs, tool calling, multimodal.
 - <img src="./icons/bib.svg" width="25" height="20" align="top"> **[bib](https://github.com/antonio-leitao/bib)** — Bibliography explorer and manager from the command line.
 - <img src="./icons/caravela.svg" width="25" height="20" align="top"> **[caravela](https://github.com/antonio-leitao/caravela)** — Blazingly fast dot product. Does one thing, does it well.
